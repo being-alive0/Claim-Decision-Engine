@@ -177,6 +177,10 @@ Frontend will open at:
 
 ---
 
+## 📸 Demo Screenshot
+
+![Policy Document Analyzer Demo](demo.png)
+
 ## 🧩 Troubleshooting
 
 ### **`[WinError 32] The process cannot access the file`**
