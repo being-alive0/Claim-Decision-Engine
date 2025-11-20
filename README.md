@@ -1,5 +1,4 @@
 
-```markdown
 # 📄 AI-Powered Policy Document Analyzer
 
 A robust Retrieval-Augmented Generation (RAG) system designed to automate the analysis of insurance policy documents.  
