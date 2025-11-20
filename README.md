@@ -1,6 +1,3 @@
-Here is the clean, properly formatted **Markdown version** of your full project README — ready to paste into `README.md`:
-
----
 
 ```markdown
 # 📄 AI-Powered Policy Document Analyzer
