@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+
+# Model / pickle files
+*.pkl
+*.pt
+*.bin
+
+# Temp uploads
+temp_uploads/
+
+# DB / vector stores
+chroma_db/
+*.db
+*.sqlite
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# OS crap
+.DS_Store
+Thumbs.db
